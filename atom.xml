@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[yidagege Blog]]></title>
   <link href="http://yidagege.github.io/atom.xml" rel="self"/>
   <link href="http://yidagege.github.io/"/>
-  <updated>2018-01-23T14:25:13+08:00</updated>
+  <updated>2018-01-23T14:30:52+08:00</updated>
   <id>http://yidagege.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[yida]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
